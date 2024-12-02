@@ -1,0 +1,9 @@
+__pycache__/
+*.py[code]
+
+bdd_traducteur/mysql.sock
+bdd_traducteur/bdd/
+bdd
+
+.api/
+.web/
